@@ -8,7 +8,8 @@
 
 @font-face {
     font-family: bebas;
-    src: url('../fontes/BebasNeue-Regular.ttf');
+    src: url('../fontes/BebasNeue-Regular.ttf') format('opentype');
+    font-weight: normal;
 }
 
 :root {
