@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: idroid;
-    src: url('/fontes/idroid.otf') format('opentype');
+    src: url('../fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 
 @font-face {
     font-family: bebas;
-    src: url('/fontes/BebasNeue-Regular.ttf');
+    src: url('../fontes/BebasNeue-Regular.ttf');
 }
 
 :root {
